@@ -1,0 +1,19 @@
+{
+    "name": "binabc/aliyun-opensearch",
+    "description": "aliyun-opensearch-bin-v3.2.1",
+    "type": "library",
+    "authors": [
+        {
+            "name": "phpbin",
+            "email": "phpbin@qq.com"
+        }
+    ],
+	"require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
